@@ -9,6 +9,8 @@ public class hello {
         System.out.println("hello~");
     }
     public void say() {
+        int a = 10;
+        int b = 20;
         System.out.println("abc...");
     }
 }
